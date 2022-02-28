@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the prcsent [sic] estate of Cornwall. With the true proceedings of Captaine Pym; VVho is with his forces at Plimouth, hindering the passage of the Lord Mohone, which with seventeen thousand cavaliers, endeavoureth to joyne his forces with his Majesty. Whereunto is annexed severall remarkeable passages concerning the cavaliers behaviour, since their abode in Oxfordshire.</title>
+            <author>Trivery, Jeremiah.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94867</idno>
+            <idno type="STC">Wing T2301</idno>
+            <idno type="STC">Thomason E129_7</idno>
+            <idno type="STC">ESTC R2017</idno>
+            <idno type="EEBO-CITATION">99862199</idno>
+            <idno type="PROQUEST">99862199</idno>
+            <idno type="VID">156272</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94867)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156272)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E129[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the prcsent [sic] estate of Cornwall. With the true proceedings of Captaine Pym; VVho is with his forces at Plimouth, hindering the passage of the Lord Mohone, which with seventeen thousand cavaliers, endeavoureth to joyne his forces with his Majesty. Whereunto is annexed severall remarkeable passages concerning the cavaliers behaviour, since their abode in Oxfordshire.</title>
+                  <author>Trivery, Jeremiah.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. F. for R. G.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Decemb. 10. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Ieremiah Trivery on p. 5.</note>
+                  <note>Annotation on Thomason copy: The '10' in the imprint date is marked out and replaced with a "7".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pym, Alexander, d. 1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156272:1" rendition="simple:additions"/>
+            <p>A TRUE RELATION Of the preſent Eſtate of <hi>Cornwall.</hi>
+            </p>
+            <p>With the true proceedings of Captaine PYM; VVho is with his Forces at <hi>Plimouth,</hi> hindering the paſsage of the Lord <hi>Mo<g ref="char:EOLhyphen"/>hone,</hi> which with ſeventeen Thouſand Ca<g ref="char:EOLhyphen"/>valiers, endeavoureth to joyne his Forces with his Majeſty.</p>
+            <p>Whereunto is annexed ſeverall re<g ref="char:EOLhyphen"/>markeable paſsages concerning the Ca<g ref="char:EOLhyphen"/>valiers behaviour, ſince their abode in <hi>Oxfordſhire.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>T. F.</hi> for <hi>R.G. Decemb.</hi> 10<g ref="char:punc">▪</g> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="report">
+            <pb facs="tcp:156272:2"/>
+            <pb facs="tcp:156272:2"/>
+            <head>A true relation of the proceedings of the Cavaliers in ſeverall parts of this Kingdome.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He malitious malignant party, the Ca<g ref="char:EOLhyphen"/>valiers of <hi>Cornwall,</hi> that dayly march under the command of the Lord <hi>Mo<g ref="char:EOLhyphen"/>hone,</hi> doth hourely doe miſchiefe in thoſe parts, without remorſe or pitty, that you would ſcarce imagine or believe, they will not ſuffer them to plowe their Grounds to ſowe their Graine, but with their Horſes they deſtroy it, they go to their Barnes and lodge their Horſes there and plucke downe their Stackes of Corne to feed their Beaſts, and throw it about to make Fodder of, and when they leave the place, they ſet them all on fire, ſwearing no Corne ſhall grow untill the Warre be done, nay the very Churches they make Stables of, is not this barbarous and inhumane.</p>
+            <p>On the twenty-eygth of <hi>November,</hi> at <hi>Foy</hi> in <hi>Corn<g ref="char:EOLhyphen"/>wall,</hi> certaine Cavaliers comming thither to be bil<g ref="char:EOLhyphen"/>lited, the Towne did kindly entertaine them on this condition, to pay for what they had, the Cap<g ref="char:EOLhyphen"/>taines and Commanders tooke their oathes, no ſoul<g ref="char:EOLhyphen"/>diet that marched under their command, ſhould be
+<pb facs="tcp:156272:3"/>ſo baſe but pay for what he had, and ſo they did, there remayning three dayes.</p>
+            <p>The fourth, they gave the Towne notice of their departure and their Drumes about for to give notice that if any were unpayde of any Soul<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ier let them repayte to their Captaines, and they ſhould be ſa<g ref="char:EOLhyphen"/>tisfied, none came all was diſcharged, and for their welcome each place where they had layne, did feaſt them gratis with great thankes, the word being gi<g ref="char:EOLhyphen"/>ven among them, they fell to plundering breaking open Trunkes, cheſts and boxes, tooke all their plate and money they could find, and told them they did but borrow it, when the warre was done, they would pay it back againe, and thus and in this man<g ref="char:EOLhyphen"/>ner, doe theſe wretched catives theſe Cavaliers in<g ref="char:EOLhyphen"/>rich themſelves by making others poore.</p>
+            <p>At <hi>Lawſon</hi> getting in with the like wild they likewiſe plundred that, all but of their owne religi<g ref="char:EOLhyphen"/>on that are yet ſecure, they have ſtuft the Papiſts houſes with the Proteſtants goods, and like the De<g ref="char:EOLhyphen"/>vill they cry all is there owne, ſwearing and dam<g ref="char:EOLhyphen"/>ing, blaſpheming and curſing that they will up to the King in ſpight of oppoſition and for the City of <hi>London</hi> they intend, there for to keepe their Chrſt<g ref="char:EOLhyphen"/>mas, and make the Citizens wayte upon their trenchers, but for the Roundheads, as they ſo terme them, they will ſend them pell mell to their father the devil, thee ſweare they will build in every ſtreet a croſſe, to croſſe thoſe that ſurvive; therefore I hope the City will provide to give them entertain<g ref="char:EOLhyphen"/>ment let them have bullets but their bellies full, and they will be quiet Queſtionleſſe, thus hoping
+<pb facs="tcp:156272:3"/>of your ſafety, and your welfares, with my prayers to God for your peace, and the Cavaliers deſtructi<g ref="char:EOLhyphen"/>on, I reſt yours till death,</p>
+            <closer>
+               <signed>Ieremiah Trivery.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A true Copie of a Letter ſent from a worthy Gentleman, inhabiting at <hi>Banbury,</hi> to a Merchant inhabiting in the City of LONDON.</head>
+            <opener>
+               <salute>Worthy Sir,</salute>
+            </opener>
+            <p>I Much joy of your health and welfare, you write to me for newes from the Cavaliers, how and in what manner they have behaved themſelves, ſince the King came laſt downe, as for Battaile you know as well as we they have had none. but here they lye in <hi>Oxford, Abbington, Woodſtocke,</hi> and other pla<g ref="char:EOLhyphen"/>ces, Rioting, Drinking, ſwearing, and Revelling, ex<g ref="char:EOLunhyphen"/>ceeding full of Money, paying ſtill as they call, but we feare at their departure they will have it backe, againe with treble intereſt, here they wait (as they doe give out) for the Lord <hi>Mohone,</hi> who of a certaine is ſeventeene thouſand ſtrong, but we heare that Cap<g ref="char:EOLhyphen"/>taine <hi>Pym,</hi> Maſter <hi>Pims</hi> ſonne is now with his For<g ref="char:EOLhyphen"/>ces at <hi>Plimouth,</hi> and ſtops their paſſage over the Ri<g ref="char:EOLhyphen"/>ver, that they are inforced as yet to keepe in <hi>Cornwall</hi>
+            </p>
+            <pb facs="tcp:156272:4"/>
+            <p> But to my Cavaliers, at <hi>Woodſtocke</hi> one of theſe roring-boyes being quartered there, went to a Dra<g ref="char:EOLhyphen"/>pers ſhop to cheapen Linnen, they agreed upon the price, others comming in he ſell into diſcourſe with ſome that knew him, and went away, the ſervants be<g ref="char:EOLhyphen"/>ing buſie, with his Cloath unpaid for, the next day comming by the Shop, the ſervant knew him, and demanded money for the Cloath, which yeſterday this Cavalier had bought, but had never payed for it, this ungodly Catiffe having his oathes ready, ſwore that he had paid the money to him or his Maſter, his maſter denied the receipt, as well he might, the Cavalier with terrible oathes, moſt per<g ref="char:EOLhyphen"/>juriouſly ſwore that he had payed him; for if he did depart the houſe when he did buy the Cloath, before he had payd for it, he deſired that openly might be ſhowne upon him ſome vengeance, or that he might ſuddenly ſinke or fall downe, and never have power to ſtir, or goe out of that place, thinking perhaps as the Athieſts doe, that, there is no God, or elſe that God heareth not the prayers of the people, either to reward the juſt, or to rebuke the wicked, but God is a ſwift God to revenge, when his mercy is refuſed, for in the depth of his Iudgement, he heard his per<g ref="char:EOLhyphen"/>jury, and ſtrucke him ſo immediately to the ground that ſtaggering too and fro, the ſtrength of his Legs fayling him, downe he fell in the Shop, and became ſpeechleſſe, being never able to riſe without helpe never able to utter any more blaſphemous oathes a<g ref="char:EOLhyphen"/>gainſt the Lord, onely a wonderfull thing to tell, as if God ſhould plainely ſhew the cauſe of his procu<g ref="char:EOLhyphen"/>red wrath.</p>
+            <pb facs="tcp:156272:4"/>
+            <p> This perjured Cavalier held out in his left hand money for the Cloath, that the ſtanders by might behold the ſame, but he fell downe in the Devils name for to ſtand up againe no helpe could ſupport him, that he might be able againe to goe, ſo he was carri<g ref="char:EOLhyphen"/>ed to his Lodging, and within an houre or two dyed.</p>
+            <p>AT <hi>Oxford</hi> a noted Cavalier, a filthy tal<g ref="char:EOLhyphen"/>ker of ribauldry, and a Common cur<g ref="char:EOLhyphen"/>ſer and ſwearer, and a great blaſpheamer fell ſicke, in his ſhort ſickneſſe he refuſed all comfortable Doctrine, he ſtill cryed out the Devill, the Devill, confeſſing indeed Gods all potent power, for he ſaid he felt it but could not pray for Grace, the cauſe he himſelfe knew, but would not utter it, ſo kiſſing his hand often, in which he ſaid he held the Devill, crying onely for helpe one<g ref="char:EOLhyphen"/>ly upon the Devill, he moſt miſerably ra<g ref="char:EOLhyphen"/>ving ended his moſt wretched Life.</p>
+            <p>AT <hi>Abbington</hi> a great Cavalier, and an ex<g ref="char:EOLhyphen"/>ceſſive drinker, being at a Taverne, in the heigth of his jollity and mirth threw the Pots downe ſtayres, ſwearing, curſing, ſing<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:156272:5"/>and blaſpheming, the Parſon of a Vil<g ref="char:EOLhyphen"/>lage nere adjoyning, paſſing the ſtreete, this Cavalier looking out of the Windowe and called to him, doeſt thou heare Parſon of no Church, come up hither, and ſwore a great oath, that he would drinke to him a whole Pulpet-full, ſo ſetting the Pottle-pot to his mouth, he powred <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> his throate ſo faſt, in ſuch a preſumptious manner, that ſuddainly his Bowels fell out of his body, and there he dyed moſt miſerably.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
